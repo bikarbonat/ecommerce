@@ -1,4 +1,1 @@
-ecommerce
-=========
-
-Ecommerce CMS
+First try to develop ecommerce CMS using CodeIgniter Framework
